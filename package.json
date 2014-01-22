@@ -1,0 +1,25 @@
+{
+  "name": "w3w2r",
+  "version": "0.0.0",
+  "description": "w3w2r =====",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/emirotin/w3w2r.git"
+  },
+  "author": "Eugene Mirotin <emirotin@gmail.com>",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/emirotin/w3w2r/issues"
+  },
+  "homepage": "https://github.com/emirotin/w3w2r",
+  "dependencies": {
+    "coffee-script": "~1.6.3",
+    "async": "~0.2.9",
+    "xml2js": "~0.4.1",
+    "lodash": "~2.4.1"
+  }
+}
